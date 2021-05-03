@@ -15,7 +15,7 @@
     animation-name: banner;
     animation-duration: 30s;
 }
-h1{
+.title{
     position: absolute;
     top: 0;
     z-index: 100;
